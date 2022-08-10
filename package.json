@@ -1,0 +1,16 @@
+{
+  "name": "cors-everywhere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "nodemon": "^2.0.19"
+  }
+}
